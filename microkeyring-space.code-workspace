@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Microkeyring",
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/acala/.platformio/penv/bin:/home/acala/.platformio/penv:/home/acala/bin:/home/acala/.local/bin:~/scripts/:/media/acala/NETAC128/safe/scripts/:/home/acala/bin:/home/acala/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
